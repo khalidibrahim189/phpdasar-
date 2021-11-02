@@ -1,0 +1,31 @@
+1. didalama sebuah dasar php ada namanya variable
+divariable ada sebuah string , integer, dll
+
+apa itu boolean?
+Tipe data boolean merupakan tipe yang memiliki dua nilai yaitu benar (true) atau salah (false). Nilai yang digunakan pada tipe ini sangat penting dalam mengambil keputusan suatu kejadian tertentu
+
+
+2. materi operator
+//operator aritmatika + - / * 
+
+3.perbandingan
+
+== sebuah persamaan nilai
+!= sebuah perbedaan nilai
+> perbandingan jika nilai lebih besar 
+< perbandingan jika nilai lebih kecil
+
+
+
+set project 
+buat sebuah login fom
+1.buat sebuah database 
+database : penjualan
+tabel : admin
+
+id (init) (auto_increment)
+username (varchar 100)
+password(varchar 100)
+
+
+setelah dibuat database sqlnya  , silahkan koneksi kekodingan kita 
